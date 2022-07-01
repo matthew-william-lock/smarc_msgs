@@ -75,6 +75,7 @@ add_message_files(
   LatLonOdometry.msg
   GotoWaypoint.msg
   MissionControl.msg
+  ChlorophyllSample.msg
 )
 
 ## Generate services in the 'srv' folder
