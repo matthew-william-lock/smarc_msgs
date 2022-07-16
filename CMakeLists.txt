@@ -76,6 +76,7 @@ add_message_files(
   GotoWaypoint.msg
   MissionControl.msg
   ChlorophyllSample.msg
+  AlgaeFrontGradient.msg
 )
 
 ## Generate services in the 'srv' folder
